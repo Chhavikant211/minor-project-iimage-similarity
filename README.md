@@ -1,1 +1,1 @@
-# minor-project-iimage-similarity
+# minor-project-image-similarity
